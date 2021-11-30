@@ -1,0 +1,20 @@
+{
+   "name":"NFT Test 1",
+   "description":"Test card NFT 1",
+   "attributes":{
+      "cardTag":"mage",
+      "rarity":"common",
+      "element":"fire",
+      "atk":10,
+      "hp":20,
+      "spell_1":"strike",
+      "spell_2":"strike",
+      "spell_3":"strike"
+   },
+   "display":{
+      "type":1,
+      "atkType":2,
+      "hpType":1,
+      "skillType":3
+   }
+}
